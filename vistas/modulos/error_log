@@ -1,0 +1,56 @@
+[07-Jan-2021 06:05:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/vjicjs2mauia/public_html/vistas/modulos/pdfFileTrouble.php:37
+Stack trace:
+#0 /home/vjicjs2mauia/public_html/vistas/PDF/fpdf.php(334): PDF->Header()
+#1 /home/vjicjs2mauia/public_html/vistas/modulos/pdfFileTrouble.php(187): FPDF->AddPage()
+#2 {main}
+  thrown in /home/vjicjs2mauia/public_html/vistas/modulos/pdfFileTrouble.php on line 37
+[07-Jan-2021 06:06:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/vjicjs2mauia/public_html/vistas/modulos/pdfFile.php:36
+Stack trace:
+#0 /home/vjicjs2mauia/public_html/vistas/PDF/fpdf.php(334): PDF->Header()
+#1 /home/vjicjs2mauia/public_html/vistas/modulos/pdfFile.php(197): FPDF->AddPage()
+#2 {main}
+  thrown in /home/vjicjs2mauia/public_html/vistas/modulos/pdfFile.php on line 36
+[07-Jan-2021 17:32:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/vjicjs2mauia/public_html/vistas/modulos/pdfFileTrouble.php:37
+Stack trace:
+#0 /home/vjicjs2mauia/public_html/vistas/PDF/fpdf.php(334): PDF->Header()
+#1 /home/vjicjs2mauia/public_html/vistas/modulos/pdfFileTrouble.php(187): FPDF->AddPage()
+#2 {main}
+  thrown in /home/vjicjs2mauia/public_html/vistas/modulos/pdfFileTrouble.php on line 37
+[07-Jan-2021 17:33:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/vjicjs2mauia/public_html/vistas/modulos/pdfFileTrouble.php:37
+Stack trace:
+#0 /home/vjicjs2mauia/public_html/vistas/PDF/fpdf.php(334): PDF->Header()
+#1 /home/vjicjs2mauia/public_html/vistas/modulos/pdfFileTrouble.php(187): FPDF->AddPage()
+#2 {main}
+  thrown in /home/vjicjs2mauia/public_html/vistas/modulos/pdfFileTrouble.php on line 37
+[08-Jan-2021 02:52:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/vjicjs2mauia/public_html/vistas/modulos/pdfFile.php:36
+Stack trace:
+#0 /home/vjicjs2mauia/public_html/vistas/PDF/fpdf.php(334): PDF->Header()
+#1 /home/vjicjs2mauia/public_html/vistas/modulos/pdfFile.php(197): FPDF->AddPage()
+#2 {main}
+  thrown in /home/vjicjs2mauia/public_html/vistas/modulos/pdfFile.php on line 36
+[08-Jan-2021 02:52:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/vjicjs2mauia/public_html/vistas/modulos/pdfFileCorrec.php:37
+Stack trace:
+#0 /home/vjicjs2mauia/public_html/vistas/PDF/fpdf.php(334): PDF->Header()
+#1 /home/vjicjs2mauia/public_html/vistas/modulos/pdfFileCorrec.php(196): FPDF->AddPage()
+#2 {main}
+  thrown in /home/vjicjs2mauia/public_html/vistas/modulos/pdfFileCorrec.php on line 37
+[08-Jan-2021 02:52:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/vjicjs2mauia/public_html/vistas/modulos/pdfFileTrouble.php:37
+Stack trace:
+#0 /home/vjicjs2mauia/public_html/vistas/PDF/fpdf.php(334): PDF->Header()
+#1 /home/vjicjs2mauia/public_html/vistas/modulos/pdfFileTrouble.php(187): FPDF->AddPage()
+#2 {main}
+  thrown in /home/vjicjs2mauia/public_html/vistas/modulos/pdfFileTrouble.php on line 37
+[08-Jan-2021 05:51:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/vjicjs2mauia/public_html/vistas/modulos/pdfFileCorrec.php:37
+Stack trace:
+#0 /home/vjicjs2mauia/public_html/vistas/PDF/fpdf.php(334): PDF->Header()
+#1 /home/vjicjs2mauia/public_html/vistas/modulos/pdfFileCorrec.php(196): FPDF->AddPage()
+#2 {main}
+  thrown in /home/vjicjs2mauia/public_html/vistas/modulos/pdfFileCorrec.php on line 37
+[13-Jan-2021 19:49:48 UTC] PHP Notice:  Undefined index: Id in /home/vjicjs2mauia/public_html/vistas/modulos/pdfFileTrouble.php on line 195
+[13-Jan-2021 19:49:48 UTC] PHP Notice:  Undefined index: Id in /home/vjicjs2mauia/public_html/vistas/modulos/pdfFileTrouble.php on line 211
+[13-Jan-2021 19:49:57 UTC] PHP Notice:  Undefined index: Id in /home/vjicjs2mauia/public_html/vistas/modulos/pdfFileTrouble.php on line 195
+[13-Jan-2021 19:49:57 UTC] PHP Notice:  Undefined index: Id in /home/vjicjs2mauia/public_html/vistas/modulos/pdfFileTrouble.php on line 211
+[18-Jan-2021 14:43:19 UTC] PHP Notice:  Undefined index: Id in /home/vjicjs2mauia/public_html/vistas/modulos/pdfFileTrouble.php on line 195
+[18-Jan-2021 14:43:19 UTC] PHP Notice:  Undefined index: Id in /home/vjicjs2mauia/public_html/vistas/modulos/pdfFileTrouble.php on line 211
+[21-Jan-2021 17:20:26 UTC] PHP Notice:  Undefined index: Id in /home/vjicjs2mauia/public_html/vistas/modulos/pdfFileTrouble.php on line 195
+[21-Jan-2021 17:20:26 UTC] PHP Notice:  Undefined index: Id in /home/vjicjs2mauia/public_html/vistas/modulos/pdfFileTrouble.php on line 211
